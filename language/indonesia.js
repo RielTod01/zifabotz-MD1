@@ -2,17 +2,17 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu rielbotz sedang memproses`
+    return `⏳ Mohon tunggu 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙 sedang memproses`
 }
 exports.ok = () => {
-    return `✅ Done. Sudah riel proses`
+    return `✅ Done. Sudah 𝐑𝐈𝐄𝐋 proses`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur rielbotz Sedang Error`
+    return `⚠️ Fitur 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙 Sedang Error`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ Link nya error 𝐍𝐆𝐀𝐁`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
@@ -34,11 +34,11 @@ exports.cmdNotFound = (cmd, prefix) => {
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus rielgans`
+    return `❎ Command ini khusus 𝐑𝐈𝐄𝐋𝐆𝐀𝐍𝐒🗿`
 }
 
 exports.doneOwner = () => {
-    return `✅  ️Sudah selesai, Riel`
+    return `✅  ️Sudah selesai, 𝐑𝐈𝐄𝐋`
 }
 
 exports.groupOnly = () => {
@@ -46,7 +46,7 @@ exports.groupOnly = () => {
 }
 
 exports.adminOnly = () => {
-    return `lawack lo... admin aja bukan AWOKAWOK!!`
+    return `𝐋𝐀𝐖𝐀𝐊 𝐋𝐎... 𝐀𝐃𝐌𝐈𝐍 𝐀𝐉𝐀 𝐁𝐔𝐊𝐀𝐍 𝐀𝐖𝐎𝐊𝐀𝐖𝐎𝐊!!`
 }
 
 exports.nhFalse = () => {
@@ -68,7 +68,7 @@ exports.adminAlready = () => {
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan rielbotz sebagai admin terlebih dahulu! 🙏`
+    return `Jadikan 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙 sebagai admin terlebih dahulu! 🙏`
 }
 
 exports.received = (pushname) => {
